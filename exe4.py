@@ -1,4 +1,4 @@
 salario = 750
-aumento = 112,5
-total = salario + 112,5
+aumento = 0.15
+total = salario + aumento
 print(total)
